@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\UpravljanjeIznimkama\bin\Debug\UpravljanjeIznimkama.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\UpravljanjeIznimkama\bin\Debug\UpravljanjeIznimkama.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\UpravljanjeIznimkama\bin\Debug\UpravljanjeIznimkama.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\UpravljanjeIznimkama\obj\Debug\UpravljanjeIznimkama.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\UpravljanjeIznimkama\obj\Debug\UpravljanjeIznimkama.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\UpravljanjeIznimkama\obj\Debug\UpravljanjeIznimkama.Form1.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\UpravljanjeIznimkama\obj\Debug\UpravljanjeIznimkama.Properties.Resources.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\UpravljanjeIznimkama\obj\Debug\UpravljanjeIznimkama.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\UpravljanjeIznimkama\obj\Debug\UpravljanjeIznimkama.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\UpravljanjeIznimkama\obj\Debug\UpravljanjeIznimkama.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\UpravljanjeIznimkama\obj\Debug\UpravljanjeIznimkama.pdb
